@@ -17,14 +17,20 @@
 
 ---
 
-### 🛠️: Languages and Tools
+### 🛠️ Languages and Tools:
 
 
 <div  align="center" >
   <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C" alt="C" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="CPP" alt="CPP" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg" title="bash" alt="bash" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" title="github" alt="github" width="40" height="40"/>&nbsp;
 </div>
 
+### 🔥 My stats:
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=msKaleb&theme=dark&background=000000)](https://git.io/streak-stats) <br> <br>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=msKaleb&theme=dark&background=000000)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **msKaleb/msKaleb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
