@@ -6,6 +6,9 @@
   <a href="https://www.linkedin.com/in/mikel-soria">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
+  <a href="https://profile.intra.42.fr/users/msoria-j">
+    <img src="https://img.shields.io/badge/Urduliz-gray?style=for-the-badge&logo=42" alt="Intra profile"/>
+  </a>
     
 </div>
 
